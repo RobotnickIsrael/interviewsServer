@@ -4,6 +4,9 @@ Lusha home assignment
 Server based on boilerplate: express-api-boilerplate 'https://github.com/DanishSiddiq/express-api-boilerplate.git'
 Client based on boilerplate: react-boilerplate  'https://github.com/viniarruda/react-boilerplate'
 
+Server code at: https://github.com/RobotnickIsrael/interviewsServer (already contains a bundled client)
+Client code at: https://github.com/RobotnickIsrael/interviews
+
 Most of the work was to create a new development station on my new private laptop, on windows. (which includes selecting
 boilerplates for both server and client that will fit Lusha and other interviews assignments)
 
