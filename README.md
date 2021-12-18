@@ -24,6 +24,8 @@ The work here was to change the logic to accept images instead of the original s
 change the CSS so it will reflect the minimum one picture maximum 3 pictures per row and display the metadata as
 requested while hovering.
 After that building the client and putting the build on the server static folder that I've created.
+Assumption: Not IE, this client is built on the latest react hooks and FLEX in the css.
+It won't work on super old browsers.
 
 I wanted to write tests here as well, but the logic here is also too basic to actually do any unit testing.
 End to end testing is out of the scope.
@@ -34,11 +36,14 @@ In order to save it on the server I need to activate the login and mongo, which 
 
 
 To start:
-yarn install
+git clone https://github.com/RobotnickIsrael/interviewsServer.git
+cd interviewsServer/
+yarn
 yarn start
+login to http://localhost:3130/ on your browser
+
+*If you want to run on a different port, please update .config.json file 'NODE_PORT' to the port you want.
 ```
-
-
 
 # express-api-boilerplate
 Server setup with express framework basic features
