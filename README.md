@@ -1,4 +1,5 @@
-Lusha home
+```
+Lusha home assignment
 
 Server based on boilerplate: express-api-boilerplate 'https://github.com/DanishSiddiq/express-api-boilerplate.git'
 Client based on boilerplate: react-boilerplate  'https://github.com/viniarruda/react-boilerplate'
@@ -35,11 +36,11 @@ In order to save it on the server I need to activate the login and mongo, which 
 To start:
 yarn install
 yarn start
+```
 
 
 
-
-# express-api-boilerplate - In Progress
+# express-api-boilerplate
 Server setup with express framework basic features
 
 **Description**
