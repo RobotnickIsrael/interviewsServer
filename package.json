@@ -1,5 +1,5 @@
 {
-  "name": "express-api-boilerplate",
+  "name": "interviews-boilerplate",
   "version": "1.0.0",
   "description": "express framework based boilerplate using single database",
   "main": "app.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DanishSiddiq/express-api-boilerplate.git"
+    "url": "https://github.com/RobotnickIsrael/interviewsServer.git"
   },
   "keywords": [
     "express",
@@ -18,12 +18,12 @@
     "framework",
     "boilerplate"
   ],
-  "author": "Danish Siddiq",
+  "author": "Robotnick Israel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DanishSiddiq/express-api-boilerplate/issues"
+    "url": "https://github.com/RobotnickIsrael/interviewsServer/issues"
   },
-  "homepage": "https://github.com/DanishSiddiq/express-api-boilerplate#readme",
+  "homepage": "https://github.com/RobotnickIsrael/interviewsServer#readme",
   "dependencies": {
     "amqplib": "0.5.3",
     "axios": "^0.20.0",
